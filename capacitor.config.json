@@ -1,0 +1,13 @@
+{
+  "appId": "com.swissmediatools.mykitchen",
+  "appName": "mykitchen",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/mykitchen",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
